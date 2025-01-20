@@ -1,0 +1,72 @@
+.resimSlider{
+    height: 700px;
+}
+
+body{
+    padding-top: 50px;
+    font-family: "Teko", sans-serif;
+}
+
+.hakkimizda{
+    background-color: #cae1ff    ;
+}
+
+.czg{
+    border: none;
+    border-top: 3px solid #000000;
+    max-width: 250px;
+    margin: 25px auto;
+}
+
+.h-yaprak{
+    color: #000000;
+    position: relative;
+    top: -50px;
+    font-size: 25px;
+    border: 10px solid #cae1ff;
+    background-color: #cae1ff;
+}
+
+.ekibimiz{
+    background-color: #a2b5cd;
+}
+.e-yaprak{
+    color: #000000;
+    position: relative;
+    top: -50px;
+    font-size: 25px;
+    border: 10px solid #a2b5cd;
+    background-color: #a2b5cd;
+}
+
+.ekipCard>img:hover{
+    opacity: 0.5;
+}
+
+.galeri{
+    background-color: #6e7b8b;
+}
+.g-yaprak{
+    color: #000000;
+    position: relative;
+    top: -50px;
+    font-size: 25px;
+    border: 10px solid #6e7b8b;
+    background-color: #6e7b8b;
+}
+
+.figure:hover{
+    opacity: 0.5;
+}
+
+.iletisim{
+    background-color: #d4d4d4;
+}
+.i-yaprak{
+    color: #000000;
+    position: relative;
+    top: -50px;
+    font-size: 25px;
+    border: 10px solid #d4d4d4;
+    background-color: #d4d4d4;
+}
